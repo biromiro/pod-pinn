@@ -20,6 +20,7 @@ This repository contains the implementation of a physics-informed surrogate mode
 - **src/**: Contains the source code and notebooks for model implementation and analysis.
   - `dl_roms_clean.ipynb`: Notebook for training and evaluating the POD-NN model.
   - `plots.ipynb`: Notebook for generating plots and visualizations related to the project.
+  - `requirements.txt`: Python libraries required to run the notebooks.
   
 - **docs/**: Contains the documentation and reports related to the project.
   - `naml-report.pdf`: Detailed project report.

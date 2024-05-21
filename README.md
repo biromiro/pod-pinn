@@ -89,7 +89,7 @@ For a detailed explanation of the methodology, experiments, and results, refer t
 
 ## Acknowledgements
 
-This project was developed as part of the Numerical Analysis for Machine Learning course at Politecnico di Milano, Italy. Special thanks to Dr. Nicola Rares Franco for his invaluable support and guidance.
+This project was developed as part of the Numerical Analysis for Machine Learning course at Politecnico di Milano, Italy. Special thanks to [Dr. Nicola Rares Franco](https://github.com/NicolaRFranco) for his invaluable support and guidance.
 
 ## License
 

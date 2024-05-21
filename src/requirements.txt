@@ -1,0 +1,6 @@
+numpy
+matplotlib
+torch
+jax
+git+https://github.com/NicolaRFranco/dlroms.git
+phiflow
